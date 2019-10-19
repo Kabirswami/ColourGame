@@ -95,7 +95,7 @@ function hard1() {
 		box[i].style.display="block";
 		box[i].style.background= color[i];
 	}
-	head.style.background= "#FE2E64";
+	head.style.background= "#fE2E64";
 }
 
 // function defined for easy mode
